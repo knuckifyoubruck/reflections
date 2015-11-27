@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates a git repository for the file you're working in. 
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+It's where the work is done and the changes are made. It offers the same value that
+a workbench adds to a workshop.
