@@ -5,3 +5,9 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 It's where the work is done and the changes are made. It offers the same value that
 a workbench adds to a workshop.
+
+How can you use the staging area to make sure you have one commit per 
+logical change?
+Use git diff --staged to check what is changing before you commit.
+
+It helps me visualize things by literally visualizing things for me.
